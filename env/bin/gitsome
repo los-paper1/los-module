@@ -1,0 +1,3 @@
+#!/Users/inicumedpvtltd/Documents/LOS_django_API_with_Branchname - date - updated/env/bin/python3
+from xonsh.main import main
+main()
